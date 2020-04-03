@@ -108,3 +108,4 @@ F:\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.cspro
 F:\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
 F:\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
 F:\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+F:\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\student\index.cshtml.g.cs
